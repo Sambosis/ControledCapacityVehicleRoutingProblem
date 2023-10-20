@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ControledCapacityVehicleRoutingProblem"
+  site-url: "https://Sambosis.github.io/ControledCapacityVehicleRoutingProblem"
+  description: "Control multiple Capacities with unique controls"
+  repo-branch: main
+  repo-url: "https://github.com/Sambosis/ControledCapacityVehicleRoutingProblem"
